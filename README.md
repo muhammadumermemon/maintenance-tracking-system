@@ -21,7 +21,7 @@ The Maintenance Tracking System helps in maintaining the operational readiness o
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/muhammadumermemon/maintenance-tracking-system.git
+    git clone https://github.com/muhammadumerbinfarooq/maintenance-tracking-system.git
     ```
 
 2. **Navigate to the project directory:**
